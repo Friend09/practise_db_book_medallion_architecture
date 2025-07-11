@@ -1,0 +1,7 @@
+ipykernel
+nbformat
+python-dotenv
+pyspark
+notebook
+pyarrow
+databricks-sdk
